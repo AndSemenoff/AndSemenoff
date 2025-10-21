@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**AndSemenoff/AndSemenoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  /> 
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/rust/rust-original.svg" height="30" alt="Rust logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" height="30" alt="UML logo"  />
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/latex/latex-original.svg" height="40" alt="UML logo"  />
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![AndSemenoff's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndSemenoff&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndSemenoff&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+ <!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AndSemenoff)](https://github.com/anuraghazra/github-readme-stats) -->
